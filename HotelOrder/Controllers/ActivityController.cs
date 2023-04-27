@@ -11,6 +11,7 @@ namespace HotelOrder.Controllers
         // GET: Activity
         public ActionResult Index()
         {
+            //test
             return View();
         }
     }
