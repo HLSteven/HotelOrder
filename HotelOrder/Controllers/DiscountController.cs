@@ -9,7 +9,7 @@ namespace HotelOrder.Controllers
     public class DiscountController : Controller
     {
         // GET: Discount
-        public ActionResult Index()
+        public ActionResult List()
         {
             return View();
         }
